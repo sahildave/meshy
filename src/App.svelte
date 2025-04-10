@@ -10,9 +10,9 @@
 
 <svelte:window bind:innerWidth />
 
-<banner-nav></banner-nav>
+<!-- <banner-nav></banner-nav> -->
 <div id="container">
-  <float-menu id="float-menu" />
+  <!--  <float-menu id="float-menu" /> -->
   <Main />
  <!-- <PreviewList /> -->
 </div>
