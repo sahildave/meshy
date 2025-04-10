@@ -313,7 +313,7 @@ export class Gradient {
   init() {
     this.initGradientColors(),
       this.initMesh(),
-      this.setCanvasSize(1024, 600),
+      this.setCanvasSize(1920, 1125),
       this.minigl.render();
     window.addEventListener("resize", this.resize);
   }
