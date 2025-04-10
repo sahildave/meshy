@@ -9,10 +9,10 @@ export const meshId = writable(757);
       --gradient-color-4: #c92f3c;
 */
 export const inputColors = writable([
-  "#eb75b6",
-  "#ddf3ff",
-  "#6e3deb",
-  "#c92f3c",
+  "#000000",
+  "#11003D",
+  "#34007A",
+  "#ba9eff",
 ]);
 
 /*----------------------------------------------------------------
