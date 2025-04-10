@@ -14,7 +14,7 @@
 <div id="container">
   <float-menu id="float-menu" />
   <Main />
-  <PreviewList />
+ <!-- <PreviewList /> -->
 </div>
 
 <style lang="scss">
